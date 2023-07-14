@@ -1,0 +1,50 @@
+@mixin idk1 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+}
+
+@mixin h22 {
+    position: absolute;
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    top: 45.2% ;
+    left: 28.6%;
+}
+
+@mixin pp {
+    position: absolute;
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    top: 62%;
+    left: 38%;
+}
+
+@mixin hh3 {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+@mixin h21 {
+    color: #010101;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
